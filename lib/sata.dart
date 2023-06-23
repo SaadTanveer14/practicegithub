@@ -13,7 +13,7 @@ class _SataState extends State<Sata> {
     return Scaffold(
       body:
         Center(
-          child: Text('sata'),
+          child: Text('Ahmad'),
         )
     );
   }
